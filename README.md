@@ -1,4 +1,4 @@
-# unity programming asignments
+# Unity game scripting asignment
 
-all the assignments for the unity game scripting course for CMGT saxion
+The final assignment for the unity game scripting course for CMGT saxion
 
